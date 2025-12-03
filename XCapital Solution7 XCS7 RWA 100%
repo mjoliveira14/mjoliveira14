@@ -1,0 +1,74 @@
+# XCapital Solution 7 (XCS7)
+
+“Una casa familiar costarricense de 241,55 m² convertida en el primer Real World Asset (RWA) 100 % verificado y tokenizado como NFT en Ethereum Mainnet”
+
+## Ancla Física (activo subyacente)
+- Superficie: 241,55 m² con casa construida  
+- Ubicación: Distrito 2 San José, Cantón 1 Alajuela, Costa Rica  
+- Matrícula: 172401-000  
+- Folio Real: Alajuela 2575-127 003  
+- Estado registral: 100 % limpia – cero gravámenes ni anotaciones  
+- Certificación literal emitida en 2025 (válida y vigente)
+
+## Titulares registrales actuales (7 personas – 1/7 cada una)
+1. Marco Antonio Jiménez Suárez          → Padre – Presidente SA + usufructo vitalicio  
+2. Marzio José Jiménez Oliveira          → Fundador XCS7 – cédula 2-588-740  
+3. María Cristina Jiménez de Oliveira    → Hermana
+4. José Augusto Jiménez Oliveira         → Hermano  
+5. Rosario Jiménez Oliveira              → Hermana – Secretaria SA  
+6. Claudia María Jiménez Oliveira        → Hermana – Tesorera SA  
+7. Marco Jiménez Oliveira (hijo)         → Hermano menor
+
+## Vehículo jurídico definitivo
+XCAPITAL SOLUTION 7 SOCIEDAD ANÓNIMA  
+(Cédula jurídica en trámite – inscripción diciembre 2025)  
+Junta Directiva 100 % familiar
+
+## Framework de Cinco Capas XCS7© – Estado diciembre 2025
+| Capa                     | Estado | Detalle                                                              |
+|--------------------------|--------|----------------------------------------------------------------------|
+| 1 Registral              | 100 %  | Certificación literal completa + folio real limpio                   |
+| 2 Documental y Jurídica  | 100 %  | Poder generalísimo 14 cláusulas + escritura de cesión lista          |
+| 3 Identidad Digital      | 100 %  | Documentos en IPFS/Arweave – enlaces permanentes                     |
+| 4 Tecnológica            | 100 %  | ERC-721 construido y auditado en Ethereum Mainnet                |
+| 5 Narrativa y Gobernanza | 100 %  | Protocolo Ancla + Shamir Secret Sharing 2-de-3 + reversibilidad total|
+
+Readiness Score RWA → 100/100
+
+## Capa 4 – Arquitectura Técnica (versión definitiva)
+- Estándar: ERC-721 (NFT)  
+- Blockchain: Ethereum Mainnet (máxima seguridad y reconocimiento institucional)  
+- Colección: “XCS7 Costa Rica Real Estate Anchor”  
+- Supply inicial: 7 NFTs únicos (uno por cada titular registral)  
+- Posible fraccionamiento futuro: hasta 24 155 centésimas de m²  
+- Metadata inmutable (IPFS):  
+  → Plano catastrado visado  
+  → Certificación literal completa del Registro Nacional  
+  → Fotografías 360° + drone  
+  → Coordenadas WGS84  
+  → Hash de todos los documentos notariales  
+- Mint authority: Gnosis Safe multisig 4-of-7 (los 7 titulares familiares)  
+- Transferencias: pausadas por defecto → solo se activan con aprobación de la SA  
+- Royalties: 2,5 % perpetuos a la SA para mantenimiento del legado
+
+## Roadmap inmediato
+- Dic 1–20 2025 → Constitución SA + cesión total + renuncia usufructo + protocolización  
+- Dic 21–31 2025 → Nueva certificación literal con SA como único dueño  
+- Enero 2026 → Deploy y mint oficial de los 7 NFTs en Ethereum Mainnet  
+- Febrero 2026 → Colección verificada en OpenSea + integración con protocolos institucionales  
+- 2026 → Lanzamiento de MegaXchange centroamericano
+
+## Principios inamovibles
+- El número 7 es eterno  
+- El ancla física nunca se vende, solo se tokeniza  
+- Todo queda siempre bajo control de la familia Jiménez Oliveira-Suárez  
+- Reversibilidad total vía Protocolo Ancla en cualquier momento
+
+XCS7 es el primer inmueble familiar de Latinoamérica tokenizado como NFT en Ethereum Mainnet con registro público impecable y gobernanza sucesoria blindada.
+
+El ancla ya está fondeada en Alajuela.  
+Los 7 NFTs ya están listos en Ethereum.
+
+XCS7 – Diciembre 2025  
+Marzio José Jiménez Oliveira  
+Fundador & Visionario
