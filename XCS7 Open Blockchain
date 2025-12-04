@@ -1,0 +1,77 @@
+# Open Blockchain Token – Notice of Intent (NOI) para XCS7  
+Wyoming Secretary of State – Compliance Division  
+
+Este README es tu guía definitiva para llenar y enviar el formulario NOI (Open Blockchain Token – Notice of Intent) bajo W.S. 34-29-106.  
+Sirve para certificar que tu token XCS7-REALTY (ERC-721) es "consumptive" (para uso real, no inversión especulativa) en Wyoming.  
+No es obligatorio, pero te protege en el estado y es perfecto para tu XCS7 DAO LLC.  
+
+**Beneficios clave para XCS7**  
+- Certifica que el token no es un "security" bajo ley Wyoming (no afecta federal/SEC).  
+- Ideal para tu NFT inmobiliario: posiciona XCS7 como "consumptive" (acceso fraccionado a la finca real).  
+- Costo único: $1000 (pago a Wyoming SOS).  
+- Tiempo: 5–10 días para confirmación.  
+- Vigente en 2025 (revised 2019, pero activo).  
+
+**Requisitos para calificar (marca "Yes" en todos)**  
+1. Predominant purpose is consumptive? → Yes. Explica: "El token representa fracciones verificables de una propiedad inmobiliaria real en Costa Rica para uso patrimonial y generacional."  
+2. No marketed as financial investment? → Yes. Explica: "Promovido como herramienta de preservación familiar, no como inversión especulativa."  
+3. Al menos uno de a-d:  
+   - a: Vendido para propósito consumptive? → Yes.  
+   - b: Disponible para uso inmediato? → Yes (holders verifican y reclaman fracciones post-mint).  
+   - c: Prohíbe reventa hasta uso disponible? → Yes (transfers pausados en smart contract).  
+   - d: Precauciones contra inversión? → Yes (KYC familiar, disclaimers, soulbound inicial).  
+
+## Cómo llenar el formulario (prellenado con tu info)
+Descarga el PDF oficial: https://sos.wyo.gov/Forms/Blockchain/OpenBlockchainToken-NOI0819.pdf  
+Llénalo exactamente así (copia-pega):
+
+NAME OF BLOCKCHAIN TOKEN: XCS7-REALTY  
+
+NAME OF PERSON ACTING AS DEVELOPER OR SELLER: Marzio José Jiménez Oliveira  
+
+CONTACT INFORMATION:  
+Physical Address: 756 S Reed Ct, Lakewood  
+City & State: Lakewood, Colorado  
+Country & Zip Code: USA, 80226  
+Mailing Address: Same as physical  
+City & State: Same  
+Country & Zip Code: Same  
+Phone Number: [tu teléfono USA o CR]  
+Email Address: [tu email principal]  
+Website: xcs7.com (o el que uses)  
+
+TOKEN DETAIL INFORMATION:  
+1. The predominant purpose of the token is consumptive? → Yes. Explain: "El token representa fracciones verificables de una propiedad inmobiliaria real en Costa Rica para uso patrimonial y generacional."  
+
+2. The developer or seller did not market the token as a financial investment? → Yes. Explain: "Promovido como herramienta de preservación familiar, no como inversión especulativa."  
+
+3. At least one of the following subparagraphs is satisfied:  
+   a. → Yes. Explain: "Se vende para propósito consumptive."  
+   b. → Yes. Explain: "Disponible para uso inmediato post-mint."  
+   c. → Yes. Explain: "Transfers pausados hasta activación."  
+   d. → Yes. Explain: "KYC familiar + disclaimers."  
+
+Signature: Marzio José Jiménez Oliveira  
+Date: December 03, 2025  
+
+## Cómo enviar y pagar (paso a paso)
+1. Firma el PDF (digital o impresa).  
+2. Email el formulario completo a compliance@wyo.gov.  
+3. Paga $1000:  
+   - Cheque o money order a "Wyoming Secretary of State"  
+   - Mail a: Compliance Division, Herschler Building East, 122 West 25th Street, Ste. 100, Cheyenne, WY 82002-0020  
+   - O wire transfer (pregunta por detalles en el email).  
+4. Espera confirmación en 5–10 días (ellos te avisan por email).  
+5. Una vez filed, sube el recibo a IPFS y agrégalo al metadata de tu ERC-721.  
+
+## Tips para no perder este paso
+- Guarda este README en tu repo principal de GitHub.  
+- Pon alarma en tu celular para "Enviar NOI Wyoming" hoy mismo.  
+- Después de pagar, toma foto del cheque y envíala a tu email familiar.  
+- Si tenés dudas, email directo a compliance@wyo.gov (responden rápido).  
+
+Con esto, XCS7 DAO LLC queda blindada en Wyoming como token consumptive.  
+¡No lo dejes para después – file hoy y cierra 2025 con llave de oro!
+
+⚓️ XCS7 – Marzio José Jiménez Oliveira  
+Lakewood, CO – Diciembre 2025
