@@ -1,0 +1,48 @@
+┌───────────────────────────────────────────────────────────────┐
+│                     [NODO OPERADOR XCS7]                      │
+│                         ID: D15DF4                            │
+│                                                               │
+│   • Identidad digital del operador                            │
+│   • Wallet que firma control                                  │
+│   • Administra metadatos                                      │
+│   • Ejecuta transacciones                                     │
+│   • Custodia lógica del título                                │
+└───────────────────────────────────────────────────────────────┘
+                              │
+                              │ Operación directa / Firma
+                              ▼
+┌───────────────────────────────────────────────────────────────┐
+│                   [NFT DE TITULARIDAD RWA]                    │
+│        Contract Address: 0x95D70d0c6453907641792be5109feba    │
+│                                                               │
+│   Representa digitalmente la propiedad física                 │
+│   • Escritura tokenizada (ERC-721 / ERC-1155)                 │
+│   • Hash de documentos del activo                             │
+│   • Datos legales / catastrales                               │
+│   • Metraje: 241.51 m²                                        │
+│   • Planos del 77 (vía IPFS)                                  │
+│   • Historial público                                         │
+└───────────────────────────────────────────────────────────────┘
+                              │
+                              │ Apunta a
+                              ▼
+┌───────────────────────────────────────────────────────────────┐
+│           [METADATA DINÁMICO + IPFS DOCUMENTACIÓN]            │
+│                                                               │
+│   • Hash de certificaciones                                   │
+│   • PDF / imágenes de planos                                  │
+│   • Fotos o imágenes del activo                               │
+│   • Archivos técnicos (Soil, perímetro, etc.)                 │
+│   • JSON con atributos del inmueble                           │
+└───────────────────────────────────────────────────────────────┘
+                              │
+                              │ Referencia física
+                              ▼
+┌───────────────────────────────────────────────────────────────┐
+│                [ACTIVO FÍSICO EN EL MUNDO REAL]               │
+│                                                               │
+│   • Terreno + construcción 241.51 m²                          │
+│   • Estructura certificada                                    │
+│   • Documentación municipal original                          │
+│   • Ubicación: Plus Code 762Q2QFH+82                          │
+└───────────────────────────────────────────────────────────────┘
