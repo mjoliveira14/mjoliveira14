@@ -1,0 +1,37 @@
+XCS7/
+├── README.md                      ← Obra maestra (te la entrego lista para copiar-pegar)
+├── ARCHITECTURE.md                ← Diagrama + explicación técnica profunda
+├── LEGAL-ANCHOR/                  ← Anclaje legal y catastral (PDFs escaneados)
+│   ├── Catastro_P-286972-77.pdf
+│   ├── Plano_Registrado.pdf
+│   ├── Escritura_Publica.pdf
+│   └── Blindaje_Legal_XCS7.pdf
+├── ON-CHAIN/
+│   ├── contracts/
+│   │   ├── XCS7_Oracle.sol         ← Contrato A (D15DF4…)
+│   │   └── XCS7_FractionalToken.sol ← Contrato B (95D70D…)
+│   ├── verification/
+│   │   ├── etherscan-verified-contract-A.json
+│   │   └── etherscan-verified-contract-B.json
+│   └── deployments/
+│       └── mainnet-addresses.json
+├── OFF-CHAIN-ANCHOR/
+│   ├── DID-XCS7.json              ← Decentralized Identifier del RWA
+│   ├── metadata-XCS7O.json        ← NFT metadata (OpenSea ready)
+│   └── ipfs/
+│       └── Qm... (CID pinned)
+├── SOVEREIGN-NODE/
+│   ├── rXcapsolHUSH-config.yaml
+│   └── xrpl-hooks-proof.txt
+├── AUDIT/
+│   ├── XCS7_Security_Audit_v1.pdf (aun si es self-audit)
+│   └── onchain-activity-proof.png (últimos 30 días de micro-txs)
+├── docs/
+│   ├── XCS7_Anclaje_Architecture.pdf   ← el que ya tenés
+│   └── XCS7_OnePager_2025.pdf
+├── media/
+│   ├── architecture-XCS7-4k.png
+│   └── streetview-proof.jpg
+├── .github/
+│   └── FUNDING.yml                ← botón “Sponsor” para recibir USDC directo
+└── LICENSE                        ← MIT o GPL-3.0 (tú eliges)
