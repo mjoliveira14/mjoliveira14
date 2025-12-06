@@ -1,0 +1,31 @@
+# XCS⑦ Sovereign RWA con Anclaje Catastral · Costa Rica 2025
+
+**Primer Real World Asset 100 % soberano de Latinoamérica con anclaje físico, criptográfico y registral verificable en tres capas.**
+
+[![XCS7 Architecture](media/architecture-XCS7-4k.png)](media/architecture-XCS7-4k.png)
+
+### Anclajes Irrefutables
+| Capa         | Prueba                                      | Verificar |
+|--------------|---------------------------------------------|---------|
+| Física       | Finca real Alajuela, Costa Rica             | [Google Maps Pin](https://maps.app.goo.gl/bY7YdpvD9dQNV2mm6) |
+| Registral    | Plano Catastro P-286972-77 (241.55 m²)      | → /LEGAL-ANCHOR/ |
+| Criptográfica| Contratos Ethereum + Nodo XRPL soberano     | Etherscan + XRPSCAN |
+| Legal        | Blindaje vía escritura pública + DID        | → /LEGAL-ANCHOR/ |
+
+### Estado actual (06 Dic 2025)
+- Contratos verificados y activos en Ethereum Mainnet  
+- Token fraccional $XCS7O (1/6) ya emitido  
+- Nodo rXcapsolHUSH operativo en XRPL  
+- 100 % propiedad y llaves privadas bajo control del creador  
+- Zero custodios terceros · Gobernanza on-chain VALOREM/DAO
+
+### Verificación instantánea
+→ Etherscan Contrato Oráculo: `0xD15DF4…`  
+→ Etherscan Token Fraccional: `0x…95D70D`  
+→ Nodo XRPL: `rXcapsolHUSH`
+
+### Licencia
+Código: MIT  
+Activo subyacente: Propiedad privada con fraccionamiento vía smart contract
+
+Made with Costa Rica · 2025
