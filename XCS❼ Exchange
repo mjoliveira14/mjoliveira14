@@ -1,0 +1,27 @@
+XCS❼-Exchange/
+│
+├── README.md
+├── whitepaper/
+│   ├── XCS❼_Whitepaper.md
+│   └── XCS❼_Resena_Academica.pdf
+│
+├── architecture/
+│   ├── smart-contracts/
+│   ├── system-design/
+│   └── oracle-nodes/
+│
+├── economics/
+│   ├── inflation-model/
+│   ├── risk-framework/
+│   └── governance-model/
+│
+├── assets/
+│   ├── logos/
+│   └── diagrams/
+│
+├── docs/
+│   ├── roadmap/
+│   └── changelog.md
+│
+└── licenses/
+    └── MIT_LICENSE
