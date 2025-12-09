@@ -1,0 +1,72 @@
+# XCS❼ — Guía de Verificación del Proyecto
+
+XCS❼ es un proyecto integral que transforma activos inmobiliarios en productos financieros tokenizados (RWA), integrados a la visión **VALOREM** y a una infraestructura soberana de confianza.  
+Esta guía detalla **todos los niveles de verificación del activo**, desde la propiedad física hasta su representación digital en blockchain.
+
+---
+
+## Contenido del Repositorio
+
+### 1. Documentos PDF
+- [Paquete Ejecutivo XCS❼](whitepaper/XCS❼_Paquete_Ejecutivo.pdf)  
+- [Tesis RWA XCS❼](whitepaper/XCS❼_Tesis_RWA.pdf)  
+- [Guía de Verificación XCS❼](whitepaper/XCS❼_Guia_Verificacion.pdf)
+
+### 2. Arquitectura y Smart Contracts
+- Diagramas de arquitectura: `architecture/diagrams/`  
+- Smart Contracts: `architecture/smart-contracts/`  
+  - Ethereum Smart Contract: `0x95D70d0c6453907641792be5109feba6c8d230C8`  
+  - NFT ERC721 verificable: metadatos, fecha de creación, propietario y hash  
+
+### 3. Economía y Modelos RWA
+- Modelos de riesgo y flujos operativos: `economics/RWA-models/`  
+
+### 4. Roadmap y Timeline
+- Roadmap 2025–2027: `docs/roadmap/`  
+- Línea del tiempo del proyecto: `docs/timeline/`  
+
+---
+
+## Guía de Verificación del Proyecto XCS❼
+
+### 1. Verificación Física
+La propiedad en **Alajuela** existe físicamente y está inscrita en el **Registro Nacional**.  
+Plano catastral: **P-286972-72**.  
+Toda esta información puede verificarse mediante certificaciones oficiales.
+
+### 2. Verificación Digital Territorial
+La propiedad fue replicada en **Google Maps** con la misma información que contiene el NFT.  
+Cualquier persona puede comprobar su ubicación y descripción desde su teléfono o computadora.
+
+### 3. Verificación en Blockchain
+- **Smart Contract Ethereum:** `0x95D70d0c6453907641792be5109feba6c8d230C8`  
+- Consultable en **Etherscan**  
+- **NFT ERC721:** metadatos, fecha de creación, propietario y hash totalmente verificables
+
+### 4. Verificación Técnica Multichain
+- El motor operativo de XCS❼ funciona en **34 cadenas**  
+- Auditoría abierta: cualquier usuario puede inspeccionar transacciones y actividad mediante exploradores como **Etherscan, Polygonscan, Arbiscan**, entre otros
+
+### 5. Respaldo Legal
+- Registro literal, escritura y certificación catastral coinciden con la información digital  
+- El puente físico-digital es **coherente, verificable y auditable por terceros**
+
+### 6. Verificación Independiente
+- **Notario:** certifica coincidencia entre registro físico y representación digital  
+- **Programador:** valida contrato inteligente  
+- **Perito:** confirma coordenadas y medidas de la propiedad
+
+### 7. Resumen Final
+Todo el proyecto es **verificable en tres capas independientes**:
+
+- Mundo físico  
+- Mapa digital (Google Maps)  
+- Blockchain pública  
+
+Las tres capas coinciden sin contradicciones, garantizando la transparencia y confianza en XCS❼.
+
+---
+
+## Contacto
+Para consultas, auditorías o colaboración:  
+**contacto@xcapitalsolution.com**
