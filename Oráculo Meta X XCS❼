@@ -1,0 +1,26 @@
+# XCS7 — Oracle Integration
+
+## 1. Overview
+Identity-driven oracle for RWA verification and governance.
+
+## 2. MetaMask Integration
+- Wallet authorization
+- Smart contract interaction
+- RWA signature validation
+
+## 3. Sovereign Oracle Role
+- Identity-based verification
+- Physical-to-digital certification
+- Governance signature
+
+## 4. Asset Anchoring
+- Physical location
+- Ownership lineage
+- Legal documentation
+- Cryptographic metadata
+
+## 5. Architecture
+- Ethereum smart contract
+- IPFS storage
+- Node 7 (Cuenta 7)
+- Sovereign Validation Layer (SVL)
