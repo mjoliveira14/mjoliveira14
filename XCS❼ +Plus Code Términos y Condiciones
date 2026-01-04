@@ -1,0 +1,30 @@
+# Licencia de Protocolo XCS7 (RWA)
+
+## ⚖️ Términos y Condiciones
+
+Este repositorio y la documentación asociada al protocolo **XCS7** (incluyendo la vinculación del Plus Code `762Q2QFH+82` y el dominio `xcs7.eth`) están protegidos bajo los siguientes términos:
+
+### 1. Propiedad de Activos Reales (RWA)
+Esta licencia **NO concede** ningún derecho de propiedad, usufructo o posesión sobre el activo físico ubicado en Alajuela, Costa Rica (Finca P-286972-77). Los derechos sobre la tierra permanecen exclusivamente bajo la titularidad legal registrada de la familia Jiménez, según el registro de 1977.
+
+### 2. Uso del Código y Documentación
+No se otorga permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados para:
+* Utilizar el protocolo como referencia técnica para proyectos de tokenización.
+* Estudiar la metodología de integración de Plus Codes con ENS.
+
+### 3. Restricciones
+* **Uso Comercial:** El nombre "XCS7", el logotipo y el modelo de negocio específico desarrollado por Marzio Jiménez Oliveira están protegidos. No se permite el uso de la marca para proyectos derivados sin consentimiento expreso.
+* **Duplicidad Geográfica:** Queda prohibida la creación de tokens o activos digitales que reclamen falsamente la autoría o propiedad del código matemático `762Q2QFH+82`.
+
+### 4. Limitación de Responsabilidad
+EL SOFTWARE Y LA DOCUMENTACIÓN SE PROPORCIONAN "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA. EN NINGÚN CASO LOS AUTORES O TITULARES DE LOS DERECHOS SERÁN RESPONSABLES DE NINGUNA RECLAMACIÓN, DAÑOS U OTRA RESPONSABILIDAD.
+
+---
+
+## 🛡️ Derechos de Autor (Copyright)
+
+Copyright (c) 2024 **Marzio Jiménez Oliveira**. 
+Todos los derechos reservados sobre el concepto operativo de XCS7 y la arquitectura de vinculación RWA.
+
+El sistema de **Plus Codes** utilizado es un estándar abierto desarrollado por Google bajo la licencia Apache 2.0.
+El sistema **ENS** es un protocolo descentralizado sobre Ethereum.
