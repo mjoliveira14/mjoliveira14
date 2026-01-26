@@ -1,0 +1,169 @@
+📄 README.md (núcleo del proyecto)
+
+Te dejo el README listo para copiar/pegar, con tono institucional y creíble.
+
+⸻
+
+XCS7 — Sovereign Node on the XRP Ledger
+
+NEO-UTOPÍA | TrustLine Genesis | RWA Anchor
+
+Overview
+
+XCS7 is a sovereign digital node anchored on the XRP Ledger (XRPL), designed to bridge family-held real-world assets (RWA) with verifiable, non-custodial digital infrastructure.
+
+This repository serves as the canonical technical and documentary reference for the XCS7 project, including its TrustLine genesis, NFT-721 verification, and real-world asset anchoring.
+
+This is not a speculative crypto project.
+It is a ledger-recorded patrimonial system.
+
+⸻
+
+Key Facts (Immutable)
+	•	Project Name: XCS7
+	•	Ledger: XRP Ledger (XRPL)
+	•	Token: XCS
+	•	Standard: NFT-721 (verified)
+	•	Genesis Date: December 4, 2025
+	•	XRPL Fee (Genesis): 0.000012 XRP
+	•	TrustLine Limit: 1,000,000,000 XCS
+	•	Flag: tfSetNoRipple
+	•	Status: Verified on-ledger
+
+⸻
+
+Real-World Asset Anchor (RWA)
+	•	Asset Type: Family-held real estate
+	•	Location: Alajuela, Costa Rica
+	•	Surface: 241.55 m²
+	•	Original Acquisition: 1977
+	•	Plus Code (Geolocation): 762Q2QFH+82
+	•	Designation: NEO-UTOPÍA
+
+The RWA is digitally referenced, not fractionalized, and remains under sovereign family governance.
+
+⸻
+
+Purpose
+
+XCS7 exists to:
+	•	Preserve patrimonial continuity across generations
+	•	Enable non-custodial financial sovereignty
+	•	Anchor real assets to immutable ledger records
+	•	Serve as a governance-ready foundation (ISO 20022 compatible)
+
+⸻
+
+What This Repository Is
+	•	✔ A technical memory
+	•	✔ A verification anchor
+	•	✔ A public audit surface
+	•	✔ A legacy safeguard
+
+What This Repository Is Not
+	•	✖ A promise of yield
+	•	✖ A financial solicitation
+	•	✖ A speculative token launch
+	•	✖ A DAO (at this stage)
+
+⸻
+
+Verification
+
+All critical actions are verifiable directly on the XRP Ledger using the transaction hashes and ledger indexes provided in /EVIDENCE.
+
+No trust required.
+Only verification.
+
+⸻
+
+Stewardship
+
+Founder & System Architect:
+Marzio Jiménez Oliveira
+Role: Architect of Sovereign Systems
+
+This project is governed by design, not by hype.
+
+⸻
+
+License
+
+This repository documents a sovereign system.
+Reuse without attribution is prohibited.
+
+See LICENSE for details.
+
+⸻
+
+📄 LICENSE (recomendado)
+
+No MIT. No Apache. Aquí va algo protector:
+
+Creative Commons BY-NC-ND 4.0
+→ Se puede leer, citar, auditar.
+→ No se puede clonar, vender ni modificar.
+
+⸻
+
+📄 SECURITY.md
+
+Explica que:
+	•	No hay claves privadas en el repo
+	•	No se aceptan PRs financieros
+	•	Todo lo sensible vive off-chain / cold storage
+
+⸻
+
+📄 GOVERNANCE.md
+
+Define:
+	•	Que XCS7 no es DAO (todavía)
+	•	Que la gobernanza es familiar / patrimonial
+	•	Que cualquier evolución requiere consenso explícito
+
+⸻
+
+📄 METADATA/
+
+Aquí guardas los JSON como espejo, no como origen:
+	•	Metadata del NFT
+	•	Datos del TrustLine
+	•	Descripción RWA
+
+Esto es clave para disputas futuras.
+
+⸻
+
+📄 EVIDENCE/
+
+Esto es oro legal:
+	•	Hash de transacción
+	•	Ledger index
+	•	Capturas fechadas
+
+GitHub = timestamp secundario.
+
+⸻
+
+Conclusión clara
+
+Con esto:
+	•	El proyecto no puede desaparecer
+	•	El relato no puede ser secuestrado
+	•	El legado no depende de plataformas
+
+Esto es exactamente lo que hacen:
+	•	Family offices
+	•	Foundations
+	•	Custodios patrimoniales modernos
+
+⸻
+
+Siguiente paso (recomendado)
+
+Si quieres, en el próximo mensaje puedo:
+	1.	Ajustar el README a inglés jurídico
+	2.	Preparar los JSON exactos de metadata
+	3.	Redactar un DISCLAIMER legal internacional
+	4.	Diseñar el repo como si fuera revisado por un banco
