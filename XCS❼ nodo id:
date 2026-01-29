@@ -1,0 +1,12 @@
+{
+  "node_id": "13481100239",
+  "parent_project": "XCapital Solution 7",
+  "catastral_plan": "P-286972-77",
+  "area_m2": 241.55,
+  "last_update": "2026-01-23",
+  "tags": {
+    "property_type": "residential",
+    "tokenized": "true",
+    "asset_code": "XCS"
+  }
+}
