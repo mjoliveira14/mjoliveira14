@@ -1,0 +1,20 @@
+# XCapital Solution (XCS❼) - Real Estate Tokenization
+
+## 📜 Visión General
+XCS❼es un protocolo de tokenización de Activos del Mundo Real (RWA) desplegado en el **XRP Ledger (XRPL)**. El proyecto convierte la propiedad física **P-286972-77** en un activo financiero fluido, permitiendo la gobernanza familiar, la colateralización para préstamos y la sucesión automática.
+
+## 💎 Tokenomics
+- **Suministro Total:** 1,000,000,000 XCS
+- **Red:** XRP Ledger (Mainnet)
+- **Fecha de Génesis:** 4 de Diciembre, 2025
+- **Propósito:** Evidencia de propiedad y respaldo para liquidez DeFi.
+
+## 🛠 Configuración Técnica del Ledger
+La cuenta emisora (`rLhJ5doPBNacDE3pxq4SvHSEwTUTQhNV7x`) ha sido configurada con los siguientes parámetros de seguridad:
+- **asfDefaultRipple:** Activo (Permite el intercambio de confianza).
+- **tfSetNoRipple:** Configurado para control de flujo.
+- **Libro Contable de Validación:** 100649165.
+
+## 🏛 Gobernanza: El Consejo de los  ❼(familia) 
+El patrimonio es gestionado por una DAO Oliveira que supervisa el activo.
+
