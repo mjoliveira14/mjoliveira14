@@ -1,0 +1,13 @@
+{
+  "project_name": "XCapital Solution XCS❼",
+  "asset_code": "XCS",
+  "issuer_address": "rLhJ5doPBNacDE3pxq4SvHSEwTUTQhNV7x",
+  "total_supply": 1000000000,
+  "ledger_index": 100649165,
+  "osm_node_id": "13481100239",
+  "flags": {
+    "asfDefaultRipple": true,
+    "tfSetNoRipple": true
+  },
+  "network_fee_paid": "0.000012 XRP"
+}
