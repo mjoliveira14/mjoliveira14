@@ -1,0 +1,20 @@
+XCS7/
+├── README.md
+├── LICENSE
+├── docs/
+│   ├── 00_executive_summary.md
+│   ├── 01_architecture.md
+│   ├── 02_validation_framework.md
+│   ├── 03_token_specification.md
+│   ├── 04_identity_compliance.md
+│   ├── 05_walkaway_test.md
+│   └── 06_disclaimer_scope.md
+├── assets/
+│   ├── diagrams/
+│   └── images/
+├── metadata/
+│   ├── plus_code.txt
+│   ├── ledger_reference.txt
+│   └── property_reference.txt
+└── versioning/
+    └── CHANGELOG.md
