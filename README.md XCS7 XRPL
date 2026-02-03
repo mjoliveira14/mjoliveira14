@@ -1,0 +1,50 @@
+# XCS7 – Sovereign RWA Architecture
+
+**XCS7** is an institutional-grade architecture for anchoring a real-world physical property
+into an immutable digital ledger, transforming it into a dynamic financial instrument
+without transferring legal ownership.
+
+> If it is not verifiable in law, geography, and ledger — it does not exist.
+
+---
+
+## Project Status
+- Architectural Validation: ✅ Completed
+- On-chain Configuration: ✅ Verified
+- Token Supply: ✅ Secured
+- Walkaway Test: ✅ Passed
+- Operational Readiness: ✅ Confirmed
+
+---
+
+## Core Principles
+- Legal ownership remains unchanged
+- No dependency on banks or centralized providers
+- Full cryptographic verifiability
+- Replicable institutional framework
+
+---
+
+## Validation Framework (The Tríptico of Truth)
+1. **Physical Reality** – Registered property (Catastro)
+2. **Geospatial Precision** – Plus Code anchoring
+3. **Immutable Record** – XRP Ledger (XRPL)
+
+---
+
+## Repository Structure
+This repository contains:
+- Executive documentation
+- Technical architecture
+- Validation logic
+- Token specifications
+- Compliance-ready identity framework
+
+---
+
+## Disclaimer
+This repository documents a technical and architectural framework.
+It does not constitute a public offering, security issuance,
+or legal advice.
+
+See `/docs/06_disclaimer_scope.md` for details.
