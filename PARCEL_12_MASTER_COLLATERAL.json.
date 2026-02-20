@@ -1,0 +1,25 @@
+{
+  "asset_id": "XCS7-P12-CORE-MASTER",
+  "parcel_number": 12,
+  "designation": "XCS7 Alajuela Tower One - HQ",
+  "on_chain_id": "000922B01CFE7CF9DE8901579705C056719370ACFA1EF078EEF1FECD0589DAFA",
+  "explorer_url": "https://xrp.cafe/nft/000922B01CFE7CF9DE8901579705C056719370ACFA1EF078EEF1FECD0589DAFA",
+  "colateral_status": "Master Strategic Collateral",
+  "physical_anchor": "Oficinas Marzio Jiménez - Alajuela Central",
+  "technical_metadata": {
+    "standard": "XLS-20 (XRPL)",
+    "utility": "Sovereign Asset Node & Financial Backing",
+    "simulation": "Digital Twin UE5 Integrated"
+  },
+  "attributes": [
+    {
+      "trait_type": "Asset Type",
+      "value": "Corporate HQ / Master Hub"
+    },
+    {
+      "trait_type": "Project Node",
+      "value": "Node 12 (Core)"
+    }
+  ],
+  "provenance": "Marzio Jiménez Oliveira | XCS7 Creator"
+}
