@@ -1,0 +1,36 @@
+{
+  "asset_name": "XCS7 ASSET // ALAJUELA TOWER ONE",
+  "symbol": "XCS7-AT1",
+  "collection": "The Coast Reserve",
+  "ecosystem": "XRPL / xSPECTAR Metaverse",
+  "technical_specifications": {
+    "standard": "XLS-20 / ERC-721 Hybrid",
+    "atomic_logic": "ACID Compliant",
+    "simulation_engine": "Unreal Engine 5.4",
+    "total_supply": "1,000,000,000"
+  },
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "Alajuela, Costa Rica"
+    },
+    {
+      "trait_type": "Real World Anchor",
+      "value": "Plus Code 762Q2QFH+82"
+    },
+    {
+      "trait_type": "Security Level",
+      "value": "Atomic Total Security"
+    },
+    {
+      "trait_type": "Architecture",
+      "value": "Cyberpunk / Vaporwave High-Fidelity"
+    },
+    {
+      "trait_type": "Utility",
+      "value": "RWA Fractional Ownership & Metaverse Access"
+    }
+  ],
+  "legal_link": "https://github.com/tu-usuario/XCS7-Asset-Alajuela/LICENSE_IP.md",
+  "provenance": "Original Creator: Marzio Jiménez Oliveira"
+}
