@@ -1,0 +1,25 @@
+{
+  "asset_id": "XCS7-P12-CORE",
+  "parcel_number": 12,
+  "designation": "XCS7 Headquarters & Asset Hub",
+  "location": "Alajuela, Costa Rica",
+  "colateral_status": "Master Collateral Active",
+  "legal_physical_anchor": "Sede Central - Oficinas Marzio Jiménez",
+  "technical_metadata": {
+    "standard": "XLS-20 / RWA Hybrid",
+    "integration": "xSPECTAR / Digital Twin UE5",
+    "utility": "Governance, Operational Base, and Financial Backing"
+  },
+  "attributes": [
+    {
+      "trait_type": "Asset Class",
+      "value": "Commercial / Corporate"
+    },
+    {
+      "trait_type": "Strategic Value",
+      "value": "Core Node for XCS7 Ecosystem"
+    }
+  ],
+  "hierarchy": "Superior to Residential Parcels 1-11",
+  "provenance": "Marzio Jiménez Oliveira - Creator of XCS7"
+}
