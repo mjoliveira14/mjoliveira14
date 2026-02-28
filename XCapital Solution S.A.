@@ -1,0 +1,47 @@
+{
+  "project_name": "XCapital Solution S.A. (XCS7)",
+  "version": "2.0.0",
+  "status": "OPERATIONAL",
+  "did_identity": "762Q2QFH+82",
+  "heritage_context": {
+    "tribute_to": "Sonia María Souza Oliveira",
+    "birth_date": "1957-06-18",
+    "death_date": "2014-05-13",
+    "origin_roots": ["Paraíba, Brasil", "Alajuela, Costa Rica"],
+    "legal_predecessor": "Marco Jiménez Suárez"
+  },
+  "physical_asset_spec": {
+    "finca_id": "172401-000",
+    "catastro_plan": "P-286972-77",
+    "total_area_m2": 241.55,
+    "ownership_fraction": "1/6",
+    "location": {
+      "province": "Alajuela",
+      "district": "Pueblo Nuevo",
+      "country": "Costa Rica",
+      "regional_centroid": [10.0167, -84.2167],
+      "exact_coordinates": [10.023313, -84.222438]
+    }
+  },
+  "digital_subdivisions": [
+    {"id": "PD-01", "coords": [10.023313, -84.222438], "class": "The Coast Reserve", "status": "SECURED"},
+    {"id": "PD-02", "coords": [10.023313, -84.222423], "class": "The Coast Reserve", "status": "SECURED"},
+    {"id": "PD-03", "coords": [10.023313, -84.222408], "class": "The Coast Reserve", "status": "SECURED"},
+    {"id": "PD-04", "coords": [10.023282, -84.222438], "class": "The Coast Reserve", "status": "SECURED"},
+    {"id": "PD-05", "coords": [10.023282, -84.222423], "class": "The Coast Reserve", "status": "SECURED"},
+    {"id": "PD-06", "coords": [10.023282, -84.222408], "class": "The Coast Reserve", "status": "SECURED"},
+    {"id": "PD-07", "coords": [10.023251, -84.222438], "class": "The Coast Reserve", "status": "SECURED"},
+    {"id": "PD-08", "coords": [10.023251, -84.222423], "class": "The Coast Reserve", "status": "SECURED"},
+    {"id": "PD-09", "coords": [10.023251, -84.222408], "class": "The Coast Reserve", "status": "SECURED"},
+    {"id": "PD-10", "coords": [10.023220, -84.222438], "class": "The Coast Reserve", "status": "SECURED"},
+    {"id": "PD-11", "coords": [10.023220, -84.222423], "class": "The Coast Reserve", "status": "SECURED"},
+    {"id": "PD-12", "coords": [10.023220, -84.222408], "class": "Alajuela Tower One", "status": "OPERATIONAL"}
+  ],
+  "infrastructure": {
+    "network": "XRPL",
+    "ledger_address": "rXcapsol",
+    "ens_domain": "xcs7.eth",
+    "governance": "XAO DAO",
+    "transaction_protocol": "Atomic Swap"
+  }
+}
