@@ -1,0 +1,40 @@
+{
+  "name": "XCS7 ASSET | ALAJUELA TOWER ONE #12",
+  "description": "Hub Financiero y centro operativo de la red XCapital Solution XCS7 LLC. Nodo central de infraestructura soberana para Activos del Mundo Real (RWA) ubicado en la Parcela 12, Alajuela, Costa Rica.",
+  "image": "https://raw.githubusercontent.com/mjoliveira14/XCS7-ASSETS-ALAJUELA/main/images/12.png",
+  "external_url": "https://xcs7.eth.xyz",
+  "attributes": [
+    {
+      "trait_type": "Project",
+      "value": "XCapital Solution XCS7"
+    },
+    {
+      "trait_type": "Legal Entity",
+      "value": "XCS7 LLC (Wyoming)"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Alajuela, Costa Rica"
+    },
+    {
+      "trait_type": "Asset Class",
+      "value": "RWA - Financial Hub"
+    },
+    {
+      "trait_type": "Parcel ID",
+      "value": "12"
+    },
+    {
+      "trait_type": "Development Status",
+      "value": "Operational"
+    },
+    {
+      "trait_type": "Network",
+      "value": "XRP Ledger (XRPL)"
+    },
+    {
+      "trait_type": "Architect",
+      "value": "Marzio Jiménez Oliveira"
+    }
+  ]
+}
